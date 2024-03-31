@@ -11,7 +11,7 @@ Nenhuma instalação é necessária. Você pode salvar o script como um arquivo 
 Uso:
 
 Salve o script como um arquivo Python.
-Execute o script do seu terminal: python port_scanner.py
+Execute o script do seu terminal: python portscan.py
 Digite o endereço IP ou nome de domínio do host de destino quando solicitado.
 Digite os números das portas desejadas, um por linha, para um máximo de 10 portas. O script irá escanear essas portas sequencialmente.
 
