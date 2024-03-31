@@ -45,7 +45,7 @@ Melhorar a manipulação de erros para fornecer mensagens mais específicas ao u
 Utilização:
 
 Salve o código em um arquivo Python (.py).
-Execute o script usando o comando python nome_do_arquivo.py.
+Execute o script usando o comando python clienttcp.py.
 Digite seu nome de usuário e siga as instruções na tela.
 
 Este código é um exemplo simples e pode ser adaptado para atender às suas necessidades específicas.
