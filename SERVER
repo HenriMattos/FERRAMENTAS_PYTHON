@@ -27,7 +27,7 @@ Explicação do Código:
 
 # Vinculação do socket: O método bind() associa o socket ao endereço IP e porta especificados.
 
-#Escuta por conexões: O método listen() coloca o socket em modo de escuta, permitindo que ele aceite conexões de entrada.
+# Escuta por conexões: O método listen() coloca o socket em modo de escuta, permitindo que ele aceite conexões de entrada.
 
 # Aceitação da conexão: O método accept() é usado para aceitar a primeira conexão de um cliente e retorna um novo socket para comunicação com o cliente e o endereço do cliente.
 
