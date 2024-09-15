@@ -5,7 +5,7 @@ from Crypto.Util.Padding import pad, unpad
 import os
 from colorama import Fore, Back, Style, init
 
-init(autoreset=True)  # Inicializa o colorama
+init(autoreset=True)
 
 def gerar_chave_aes(bits=256):
     """Gera uma chave AES com o comprimento especificado em bits."""
